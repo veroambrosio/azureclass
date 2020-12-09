@@ -6,7 +6,7 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #fff;
+  background-color:  #d0ece7;
 }
 
 main {
@@ -18,4 +18,9 @@ main {
 main > h1 {
   text-align: center;
   font-size: 3.5em;
+}
+
+main > p {
+  text-align: center;
+  font-size: 3.0em;
 }
